@@ -1,2 +1,2 @@
 # Balance
-JQUERY
+CSS,JQUERY SLIDER
